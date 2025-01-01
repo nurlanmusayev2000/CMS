@@ -20,7 +20,9 @@ Navigate entries with Next and Previous buttons.
 ✅ Load Initial Data:
 
 Populate database from a local JSON file.
+
 **🛠️ Tech Stack**
+
 Backend: Node.js (Express.js), SQLite
 Frontend: React.js, Axios
 Other Tools: Git, Postman
