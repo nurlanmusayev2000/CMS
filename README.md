@@ -1,4 +1,5 @@
 **🚀 CMS Admin Interface**
+
 A Content Management System (CMS) for managing words and phrases stored in a SQLite database. Administrators can view, search, edit, save, and paginate through entries. Data can be initialized from a JSON file.
 
 **📚 Key Features**
