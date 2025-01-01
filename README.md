@@ -43,22 +43,26 @@ Backend: http://localhost:5000
 Frontend: http://localhost:3000
 
 **📊 API Endpoints**
+
 Fetch Paginated Words: /api/words/paginate
 Get Word Count: /api/words/count
 Edit a Word: /api/words/:id
 
 **🤝 Contributing**
+
 Fork the repository.
 Create a feature branch.
 Submit a Pull Request.
 
 **🐞 Troubleshooting**
+
 Verify servers are running.
 Ensure database is set up correctly.
 Check logs for errors.
 
 
 
-📬 Contact
+📬 **Contact**
+
 Author: Nurlan
 Email: nurlan.2000.m@gmail.com
